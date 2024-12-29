@@ -1,0 +1,21 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+||arxiv.org^
+||stackoverflow.com^
+||git-scm.com^
+||ieeexplore.ieee.org^
+||pypi.org^
+||github.io^
+||google.com^
+||joonseok.net^
+||huggingface.co^
+||openai.com^
+||zenodo.org^
+||gate.io^
+||metademolab.com^
+||chatgpt.com^
+||fish.audio^
+||sora.com^
+||wechaty.js.org^
+||gitbook.io^
+||wechaty.gitbook.io^
